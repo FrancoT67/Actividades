@@ -1,0 +1,2 @@
+https://learn.microsoft.com/es-es/training/modules/typescript-declare-variable-types/2-types-overview 
+cursos de TS ⏫

@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-vscode.vscode-typescript-next",
+        "pmneo.tsimporter",
+        "tabnine.tabnine-vscode",
+        "loiane.ts-extension-pack"
+    ]
+}
