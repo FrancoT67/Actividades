@@ -1,9 +1,10 @@
 {
     "recommendations": [
-        "ms-vscode.vscode-typescript-next",
-        "pmneo.tsimporter",
-        "tabnine.tabnine-vscode",
-        "loiane.ts-extension-pack",
-        "zhuangtongfa.material-theme"
+        "adpyke.codesnap",
+        "cg-cnu.vscode-codetags",
+        "genuitecllc.codetogether",
+        "sldobri.bunker",
+        "usernamehw.errorlens",
+        "tamj0rd2.ts-quickfixes-extension"
     ]
 }
