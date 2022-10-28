@@ -1,2 +1,5 @@
 https://learn.microsoft.com/es-es/training/modules/typescript-declare-variable-types/2-types-overview 
 cursos de TS ⏫
+
+git config --global user.name "FrancoT67"
+git config --global user.gmail francotoledo1235@gmail.com
