@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "carnet.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node carnet.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
   "devDependencies": {
     "@types/jquery": "^3.5.14",
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "jsdom": "^20.0.2"
   }
 }

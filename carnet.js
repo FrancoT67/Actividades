@@ -1,3 +1,8 @@
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
+const { window } = new JSDOM(`<!DOCTYPE html>`);
+const $ = require('jQuery')(window);
+
 $.urlParam = function(name){
   var url = window.location.href;
   var results = url.split("/");
@@ -74,7 +79,7 @@ $(".formValidateAgregarUsuario").validate({
   }
 });
 
-$( document ).ready(function() {
+$( document ).text(function() {
   $('#tabla-usuarios').DataTable( {
     "language": {
       /*"lengthMenu": "Display _MENU_ records per page",*/
