@@ -13,6 +13,7 @@ $.urlParam = function(name){
 var imagenCarnet = null
 //<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script> 
 // ⬆ es la posible solucion al error del $(...).validate is not a function
+$(".formValidateAgregarUsuario").html('<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>');
 
 $(".formValidateAgregarUsuario").validate({
   rules: {
